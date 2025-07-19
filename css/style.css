@@ -59,4 +59,21 @@
   line-height: 100%;
   color: #ffffff;
   background-color: #3d8168;
+  height: 48px;
+  width: 295px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 11.61px;
+  transition: background-color 0.3s ease;
+}
+.add-to-cart-btn:hover {
+  background-color: hsl(158, 36%, 27%);
+}
+.product-content {
+  padding: 0 23px 24px 25px;
 }
