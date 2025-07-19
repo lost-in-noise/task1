@@ -32,6 +32,7 @@
   font-size: 14px;
   line-height: 23px;
   color: #6c7289;
+  margin-top: 16px;
 }
 .price-discounted {
   color: #3d8168;
@@ -39,6 +40,7 @@
   font-weight: 700;
   font-size: 32px;
   line-height: 32px;
+  margin-right: 19px;
 }
 .price-original {
   color: #6c7289;
@@ -76,4 +78,7 @@
 }
 .product-content {
   padding: 0 23px 24px 25px;
+}
+.product-price {
+  margin-top: 24px;
 }
