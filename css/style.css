@@ -16,4 +16,11 @@
   font-style: normal;
 } */
 
+.main-bg {
+  background-color: #f2eae2;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
